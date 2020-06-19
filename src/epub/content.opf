@@ -37,7 +37,10 @@
 		<meta property="term" refines="#subject-2">sh2008112697</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">Ross Murdock volunteers for a government project at a secret base.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">LONG_DESCRIPTION</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;The Time Traders&lt;/i&gt; is the first book in The Time Traders series written by &lt;a href="https://standardebooks.org/ebooks/andre-norton"&gt;Andre Norton&lt;/a&gt;. First published in 1958 by World Publishing Co. &lt;i&gt;The Time Traders&lt;/i&gt; is told from the perspective of Ross Murdock a young criminal faced with a choice: be turned over to the new Rehabilitation Service or volunteer for a secret government project.&lt;/p&gt;
+			&lt;p&gt;Murdock chooses the secret government project hoping for a chance to escape. At the Artic base he learns what the project is and instead of escape he joins a team posing as Beaker Traders during the Bronze Age of Europe. His team makes several jumps through time searching for the source of technology the Reds are using to gain advantages during the preset.&lt;/p&gt;
+		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/19145</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
